@@ -6,15 +6,14 @@ In this repository, we introduce a smart city digital twin of chicago.
 ## :smirk:Ok but...what is a digital twin  ?
 
 A digital twin is a virtual representation of a product, which can be used for the conception, the testing, the surveillance, the optimization, and the maintenance of a product.
-It is a concept that combines the internet of objects, machine learning, and to say the least...art.
+It is a concept that combines the internet of objects and machine learning.
 
 A digital twin requires three parts:
  * The physical product in a real environment,
  * Its digital twin in a virtual environment,
  * The data which connects them both
 
-A digital twin is an essential part for a smart city. In this bid, we created a digital replica of the city of Chicago. In the digital replica, we display data from sensors
-placed across the beach. This can be used for urban planning, simulate natural catastrophes and prepare for them.
+A digital twin is an essential part for a smart city. In this bid, we are working on creating a digital replica of the city of Chicago. In the digital replica, we display data from sensors placed across the beach. This can be used for urban planning, simulate natural catastrophes, and prepare for them.
 ![63rd Street sensor close-up view](unity-implementation/demo/63rdstreet-sensor-closeup.gif)
 ## :trollface: Gimme the magic formula behind this
 
@@ -29,7 +28,7 @@ For example, a user can view how the digital city changes if the temperature is 
 
 ## Getting Started 
 
-Ain't nobody got time, so let's get to this.
+Let's get to this.
  1. Download [Unity](https://store.unity.com/#plans-individual/ "Unity"), the game engine which we are using to develop the digital twin in 3D
  2. Download the WRLD 3D [SDK](https://www.wrld3d.com/developers#DEVELOPERS/ "SDK"), which provides pre-built cities 3D models (including Chicago).
  3. Installing 
